@@ -242,7 +242,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -254,7 +254,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
