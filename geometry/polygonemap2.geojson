@@ -200,10 +200,10 @@
         "fill": "#0433ff",
         "fill-opacity": 0.5,
         "name": "Graves",
-        "type": "Tucor Zone #",
+        "Station": "1PF",
         "date": "Tues, Thur, Sun",
         "time": "7:30 AM",
-        "decoders": "406 403 409"
+        "decoders": 2386
       },
       "geometry": {
         "type": "Polygon",
