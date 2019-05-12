@@ -103,8 +103,7 @@
         "stroke-opacity": 1,
         "fill": "#0433ff",
         "fill-opacity": 0.5,
-        "name": "Ann Bar strip Pond",
-        "type": "zone h20"
+        "name": "Ann Barr Pond zone"
       },
       "geometry": {
         "type": "Polygon",
@@ -153,7 +152,7 @@
         "objectid": 1,
         "name": "Ann Barr Rotary",
         "type": "Water zone",
-        "decoder": "1001, 1002, 1003"
+        "Decoders": "1001 1002 1003 1004"
       },
       "geometry": {
         "type": "Polygon",
