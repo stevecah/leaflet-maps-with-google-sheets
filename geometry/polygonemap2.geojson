@@ -185,10 +185,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#0433ff",
         "stroke-width": 1,
         "stroke-opacity": 1,
-        "fill": "#00f900",
+        "fill": "#0433ff",
         "fill-opacity": 0.5,
         "name": "Graves",
         "type": "Tucor Zone #",
