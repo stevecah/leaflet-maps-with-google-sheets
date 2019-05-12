@@ -151,7 +151,8 @@
         "fill-opacity": 0.5,
         "name": "Ann Barr Rotary",
         "type": "Water z steve2",
-        "decoders": "decoder"
+        "decoders": "1, 2, 3",
+        "date": "Tues, Thur, Sun"
       },
       "geometry": {
         "type": "Polygon",
