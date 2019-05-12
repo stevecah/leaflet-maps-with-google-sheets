@@ -8,7 +8,12 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#0433ff",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "name": "Graves Path way",
+        "type": "Tucor #",
+        "date": "Mon, Wed",
+        "time": "4:30 pm",
+        "decoders": "678, 879"
       },
       "geometry": {
         "type": "Polygon",
