@@ -51,7 +51,11 @@
         "stroke-opacity": 1,
         "fill": "#0433ff",
         "fill-opacity": 0.5,
-        "name": "Ann Barr Pond zone"
+        "name": "Ann Barr Pond zone",
+        "type": "Tucor #",
+        "date": "Sat, Sun",
+        "time": "8 pm",
+        "decoders": "100, 102, 103"
       },
       "geometry": {
         "type": "Polygon",
