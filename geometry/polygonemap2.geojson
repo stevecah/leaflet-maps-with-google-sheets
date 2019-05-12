@@ -152,7 +152,7 @@
         "objectid": 1,
         "name": "Ann Barr Rotary",
         "type": "Water zone",
-        "Decoders": "1001,1002,1003,1004"
+        "decoders": "1001,1002,1003,1004"
       },
       "geometry": {
         "type": "Polygon",
