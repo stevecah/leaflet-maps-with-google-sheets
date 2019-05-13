@@ -1010,13 +1010,13 @@ $(window).on('load', function() {
       p[setting.Setting] = setting.Customize;
     }
     polygonSettings.push(p);
-  }
+   }
 
   // Returns a string that contains digits of val split by comma evey 3 positions
   // Example: 12345678 -> "12,345,678"
   function comma(val) {
-     while (/(\d+)(\d{3})/.test(val.toString())) {
-         val = val.toString().replace(/(\d+)(\d{3})/, '$1' + ',' + '$2');
+      while (/(\d+)(\d{3})/.test(val.toString())) {
+          val = val.toString().replace(/(\d+)(\d{3})/, '$1' + ',' + '$2');
       }
       return val;
   }
